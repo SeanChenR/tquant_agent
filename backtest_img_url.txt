@@ -1,0 +1,10 @@
+https://raw.githubusercontent.com/SeanChenR/tquantimage/main/image/cumulative_returns.png
+https://raw.githubusercontent.com/SeanChenR/tquantimage/main/image/rolling_volatility.png
+https://raw.githubusercontent.com/SeanChenR/tquantimage/main/image/rolling_sharpe.png
+https://raw.githubusercontent.com/SeanChenR/tquantimage/main/image/drawdown.png
+https://raw.githubusercontent.com/SeanChenR/tquantimage/main/image/monthly_returns_heatmap.png
+https://raw.githubusercontent.com/SeanChenR/tquantimage/main/image/annual_returns.png
+https://raw.githubusercontent.com/SeanChenR/tquantimage/main/image/exposures.png
+https://raw.githubusercontent.com/SeanChenR/tquantimage/main/image/long_short_holdings.png
+https://raw.githubusercontent.com/SeanChenR/tquantimage/main/image/turnover.png
+https://raw.githubusercontent.com/SeanChenR/tquantimage/main/image/daily_volume.png
